@@ -1,0 +1,10 @@
+bobby 3.1
+Kahn 3.7
+Bill 3.0
+Boomhauser 3.9
+Hank 4.0
+Dale 3.1
+peggy 3.6
+Mihn 3.8
+John Redcorn 3.9
+Nancy 2.8
